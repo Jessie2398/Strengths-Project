@@ -1,0 +1,57 @@
+body {
+	background-image: url("css images/bgg.jpg"); font-family: Georgia;
+	background-repeat: no-repeat;
+	background-size: cover;
+ color: rgb(12, 8, 11);
+ text-shadow: 4px 4px 4px rgb(234, 111, 250);
+
+}
+h1 {
+    text-align: center;
+    text-shadow: 4px 4px 4px rgb(236, 229, 235);
+    color: rgb(14, 1, 15)
+}
+nav {
+    text-align: center;
+    
+}
+
+h2 {
+    text-align: center;
+    text-shadow: 4px 4px 4px rgb(236, 229, 235);
+}
+
+h3{
+    background-color: rgba(240, 248, 255, 0.589);
+}
+
+nav{
+    text-align: center;
+    font-size: larger;
+    text-shadow: 4px 4px 4px rgb(223, 114, 233);
+    background-color: rgba(240, 248, 255, 0.589);
+    border-radius: 10px;
+    margin-left: 45%;
+    margin-right: 45%;
+}
+
+
+p{
+    text-align: center;
+    font-size: larger;
+    text-shadow: 4px 4px 4px rgb(223, 114, 233);
+    background-color: rgba(240, 248, 255, 0.589);
+    border-radius: 10px;
+    margin-left: 38%;
+    margin-right: 38%;
+}
+
+a:link{
+    color: black;
+    text-shadow: 4px 4px 4px rgb(253, 117, 242);
+}
+a:visited{
+    color:rgb(1, 1, 2);
+    text-shadow: 4px 4px 4px black;
+    font-size: 16px;
+}

@@ -1,0 +1,103 @@
+body {
+	background-image: url("css images/jbg.jpeg"); 
+	font-family: Georgia;
+	background-size: cover;
+	color: rgb(14, 2, 2);
+	text-shadow: 4px 4px 4px rgb(91, 9, 158);
+	text-align: center;
+	
+}
+
+#back{
+		
+	border-radius: 20px;
+	margin-left: 43%;
+	margin-right: 43%;
+	color: aqua;
+	background-color: rgba(240, 248, 255, 0.678);
+}
+
+h1, h4, h6, audio {
+	text-align: center;
+	color: white;
+	
+}
+
+h2{
+	color: aliceblue;
+	text-align: center;
+    background-color: rgba(0, 0, 0, 0.404);
+	border-radius: 10px;
+}
+	
+a:link{
+	color:rgb(8, 4, 10);
+}
+a:visited{
+	color:rgb(55, 5, 102)
+}
+
+p{
+	background-color: rgba(240, 248, 255, 0.486);
+	border-radius: 7px;
+}
+#Question1{
+	margin-left: 25%;
+	margin-right: 25%;
+}
+#Question2{
+	margin-left: 37%;
+	margin-right: 37%;
+	
+	
+}
+
+#two{
+	margin-left: 39%;
+	margin-right: 39%;
+	background-color: rgba(240, 248, 255, 0.658);
+}
+
+#Question3{
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+#Question4{
+	margin-left: 4%;
+	margin-right: 4%;
+}
+#themes{
+	text-align: center;
+}
+button {
+	
+	padding: 10px 35px;
+	font-size: medium;
+	background-color: rgb(124, 247, 240);
+    
+		font-family: Georgia;
+	font-weight: 600;
+	transition: transform 1s;
+	border-radius: 20px;
+	border: 2px solid white;
+	box-shadow: 4px 4px 4px rgb(162, 0, 255);
+	text-shadow: 4px 4px 4px rgb(119, 0, 255);
+	
+	
+	
+}
+button:hover{
+	background-color: rgb(225, 0, 255);
+	color: white;
+}
+
+
+nav{
+	font-size: 20px;
+	color: aliceblue;
+}
+#up{
+	position: sticky;
+	
+}
