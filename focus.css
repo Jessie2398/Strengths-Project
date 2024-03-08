@@ -2,7 +2,7 @@ body {
 	background-image: url("css images/bg14.jpg"); font-family: Georgia;
 	background-repeat: no-repeat;
 	background-size: cover;
-    text-shadow: 4px 4px 4px rgb(223, 114, 233);
+    text-shadow: 4px 4px 4px rgb(212, 44, 228);
    
 }
 h1 {
@@ -11,15 +11,15 @@ h1 {
 nav {
     text-align: center;
     font-size: large;
-    text-shadow: 4px 4px 4px rgb(223, 114, 233);
     background-color: rgba(240, 248, 255, 0.808);
     border-radius: 10px;
     margin-left: 45%;
     margin-right: 45%;
 }
 
-h3{
-    background-color: rgba(240, 248, 255, 0.692);
+#all{
+    background-color: rgba(240, 248, 255, 0.479);
+    border-radius: 10px;
 }
 
 h2 {

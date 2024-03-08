@@ -3,9 +3,14 @@ body {
 	font-family: Georgia;
 	background-size: cover;
 	color: rgb(14, 2, 2);
-	text-shadow: 4px 4px 4px rgb(91, 9, 158);
+	text-shadow: 4px 4px 4px rgb(162, 0, 255);
 	text-align: center;
 	
+}
+
+#all{
+	background-color: rgba(240, 248, 255, 0.473);
+	border-radius: 1%;
 }
 
 #back{
@@ -14,16 +19,9 @@ body {
 	margin-left: 43%;
 	margin-right: 43%;
 	color: aqua;
-	background-color: rgba(240, 248, 255, 0.678);
 }
 
-h1, h4, h6, audio {
-	text-align: center;
-	color: white;
-	
-}
-
-h2{
+h{
 	color: aliceblue;
 	text-align: center;
     background-color: rgba(0, 0, 0, 0.404);
@@ -38,7 +36,7 @@ a:visited{
 }
 
 p{
-	background-color: rgba(240, 248, 255, 0.486);
+	font-weight: 600;
 	border-radius: 7px;
 }
 #Question1{
@@ -55,8 +53,7 @@ p{
 #two{
 	margin-left: 39%;
 	margin-right: 39%;
-	background-color: rgba(240, 248, 255, 0.658);
-}
+	}
 
 #Question3{
 	margin-left: 20%;

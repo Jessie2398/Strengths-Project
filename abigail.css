@@ -1,13 +1,17 @@
 body {
 	background-image: url("css images/bkkk.png"); 
 	font-family: Georgia;
-	
 	color: white;
 	text-shadow: 4px 4px 4px rgb(252, 5, 145);
 	text-align: center;
 	margin-left: 3px;
 	margin-right: 3px;
 	
+}
+
+#all{
+	background-color: rgba(43, 42, 42, 0.555);
+	border-radius: 1%;
 }
 
 nav{

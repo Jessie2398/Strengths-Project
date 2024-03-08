@@ -3,32 +3,22 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
  color: rgb(12, 8, 11);
- text-shadow: 4px 4px 4px rgb(234, 111, 250);
+ text-shadow: 4px 4px 4px rgb(129, 4, 187);
 
 }
-h1 {
+h1, h2 {
     text-align: center;
-    text-shadow: 4px 4px 4px rgb(236, 229, 235);
-    color: rgb(14, 1, 15)
-}
-nav {
-    text-align: center;
-    
+     color: rgb(14, 1, 15)
 }
 
-h2 {
-    text-align: center;
-    text-shadow: 4px 4px 4px rgb(236, 229, 235);
-}
-
-h3{
-    background-color: rgba(240, 248, 255, 0.589);
+#all{
+    background-color: rgba(240, 248, 255, 0.404);
+    border-radius: 10px;
 }
 
 nav{
     text-align: center;
     font-size: larger;
-    text-shadow: 4px 4px 4px rgb(223, 114, 233);
     background-color: rgba(240, 248, 255, 0.589);
     border-radius: 10px;
     margin-left: 45%;
@@ -39,7 +29,6 @@ nav{
 p{
     text-align: center;
     font-size: larger;
-    text-shadow: 4px 4px 4px rgb(223, 114, 233);
     background-color: rgba(240, 248, 255, 0.589);
     border-radius: 10px;
     margin-left: 38%;
@@ -48,10 +37,11 @@ p{
 
 a:link{
     color: black;
-    text-shadow: 4px 4px 4px rgb(253, 117, 242);
-}
+    text-shadow: 4px 4px 4px rgb(214, 7, 241);
+    font-size: large;
+    }
 a:visited{
     color:rgb(1, 1, 2);
-    text-shadow: 4px 4px 4px black;
-    font-size: 16px;
+        font-size: large;
+        text-shadow: 4px 4px 4px rgb(214, 7, 241);
 }
